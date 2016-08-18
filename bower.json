@@ -1,0 +1,17 @@
+{
+    "name": "changa-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/changa-bower.git"
+    },
+    "description": "Changa font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
